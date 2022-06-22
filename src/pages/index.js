@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import hogar from '../public//img/Fantasticascasas-41.jpg'
+import hogar from '../public/img/Fantasticascasas-41.jpg'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {

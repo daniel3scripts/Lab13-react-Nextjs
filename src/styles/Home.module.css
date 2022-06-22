@@ -1,0 +1,41 @@
+.container {
+    padding: 0 2rem;
+}
+
+.main {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    color: #0070f3;
+    margin: auto;
+    line-height: 2.15;
+    font-size: 4rem;
+}
+
+.main2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.container2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container2 div {
+    flex: 1 0 20%;
+    border: solid springgreen;
+    background-color: blueviolet;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20%;
+    box-shadow: -4px -6px 45px -1px rgba(35, 255, 42, 0.75);
+}
+
+.container2 h4 {
+    font-size: 0.95em;
+}
